@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @pedro-isacss
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## 💻 Featured Projects
 
-<!---
-pedro-isacss/pedro-isacss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- [💬 Blog](pedroisac.dev/): my personal blog.
+- [😉 JPage](https://pedroisac.dev/jpage/): create websites as slides.
+
+## 🌐 Find me on the web
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/pedro-isacss)
