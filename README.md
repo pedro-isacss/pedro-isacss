@@ -6,4 +6,4 @@
 ## 👋 Contact
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/pedro-isacss)
-- 📧 [contact@pedroisac.dev](contact@pedroisac.dev)
+- ✉️ [contact@pedroisac.dev](contact@pedroisac.dev)
