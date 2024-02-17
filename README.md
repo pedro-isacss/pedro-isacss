@@ -1,6 +1,6 @@
 ## 💻 Featured Projects
 
-- [💬 Site](pedroisac.dev/): my website.
+- [💬 Site](https://pedroisac.dev/): my website.
 - [😉 JPage](https://pedroisac.dev/jpage/): create websites as slides.
 
 ## 👋 Contact
